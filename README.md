@@ -17,3 +17,8 @@ the option flag is either P or M.
     M for Menu, builds and displays the menu configurated by the filepath.
 
 This allows for dynamic menu building, a nice easy terminal system.
+
+#Pastebins
+startup : https://pastebin.com/uvvtyu65 , pastebin get uvvtyu64
+.menu : https://pastebin.com/sHsjwp0A , pastebin get sHsjwp0A
+.config : https://pastebin.com/rf1Ny4NF , pastebin get rf1Ny4NF
