@@ -1,0 +1,4 @@
+Copy Disk,[ Copy Disk ],.copy,P
+Name Disk,[ Name Disk ],.name,P
+ Clean Disk, [ Clean Disk ],.clean,P
+Shutdown,[ Shutdown  ],.shutdown,P
