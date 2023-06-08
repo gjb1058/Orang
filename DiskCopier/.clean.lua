@@ -1,0 +1,8 @@
+term.clear()
+term.setCursorPos(1,1)
+print("Cleaning Output Disk...")
+shell.run("rm disk2/*")
+textutils.slowPrint("##########")
+print("Output disk cleaned.")
+sleep(2)
+print("Press up or down to continue.")
