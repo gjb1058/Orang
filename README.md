@@ -8,6 +8,7 @@ Uses the startup file to automatically boot the operating system.
 
 # Config Files
 .config is always the default main menu configuration. Each line has four values.
+
 Unselected Text, Selected Text, filepath, option
 
 filepath can either be another menu config or a program path to be executed.
