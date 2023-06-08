@@ -6,7 +6,7 @@ Uses the startup file to automatically boot the operating system.
 
 .menu is the code that runs the menu system. The main menu is configured via .config
 
-#Config Files
+# Config Files
 .config is always the default main menu configuration. Each line has four values.
 Unselected Text, Selected Text, filepath, option
 
